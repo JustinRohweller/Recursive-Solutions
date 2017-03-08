@@ -1,0 +1,74 @@
+racecar	 is a Palindrome
+
+radar	 is a Palindrome
+
+cows	 is not a Palindrome
+
+cannac	 is a Palindrome
+
+level 	 is a Palindrome
+
+Pot top 	 is a Palindrome
+
+A man a plan a canal Panama 	 is a Palindrome
+
+Radar	 is a Palindrome
+
+Abba	 is a Palindrome
+
+racecar	 is a Palindrome
+
+radar	 is a Palindrome
+
+cows	 is not a Palindrome
+
+cannac	 is a Palindrome
+
+level 	 is a Palindrome
+
+Pot top 	 is a Palindrome
+
+A man a plan a canal Panama 	 is a Palindrome
+
+Radar	 is a Palindrome
+
+Abba	 is a Palindrome
+
+racecar	 is a Palindrome
+
+radar	 is a Palindrome
+
+cows	 is not a Palindrome
+
+cannac	 is a Palindrome
+
+level 	 is a Palindrome
+
+Pot top 	 is a Palindrome
+
+A man a plan a canal Panama 	 is a Palindrome
+
+Radar	 is a Palindrome
+
+Abba	 is a Palindrome
+
+racecar	 is a Palindrome
+
+radar	 is a Palindrome
+
+cows	 is not a Palindrome
+
+cannac	 is a Palindrome
+
+level 	 is a Palindrome
+
+Pot top 	 is a Palindrome
+
+A man a plan a canal Panama 	 is a Palindrome
+
+Radar	 is a Palindrome
+
+Abba	 is a Palindrome
+
+Dammit Im mad	 is a Palindrome
+
